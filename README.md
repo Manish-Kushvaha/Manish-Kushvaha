@@ -21,7 +21,6 @@ ___
 
 - **Databases**:  
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-- **Databases**:  
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 - **Version Control**:  
@@ -53,3 +52,9 @@ A dynamic and responsive website developed for the **Computer Department** at **
 **Tech Stack**: HTML, CSS, JavaScript  
 **Repository**: [GitHub - LTCE Computer Department Website](https://github.com/Manish-Kushvaha/LTCE_dept_web)  
 **Live Website**: [LTCE Website](https://ltcecomputerdepartment.netlify.app/)
+___
+
+## Contact Info
+Feel free to reach out for collaborations or opportunities!
+- **Email**: [kushvahamanish555@gmail.com](mailto:kushvahamanish555@gmail.com)
+
