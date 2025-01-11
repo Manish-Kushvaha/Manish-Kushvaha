@@ -21,6 +21,7 @@ ___
 
 - **Databases**:  
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+  ![MySQL](https://upload.wikimedia.org/wikipedia/commons/6/63/MySQL_logo.png)
 
 - **Version Control**:  
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
@@ -36,10 +37,18 @@ ___
 
 I am a passionate **web developer** with a focus on building **user-friendly** and **dynamic web applications**. While I am still strengthening my **backend skills**, I have a solid foundation in **frontend development**, including technologies like **HTML**, **CSS**, **JavaScript**. I am actively working to expand my expertise in **backend development**, including learning about **server-side logic**, **databases**, and **API integration**. I am committed to enhancing my skills and becoming a proficient **full-stack developer**, focusing on creating **scalable** and **efficient web solutions**.
 
-___
-
 - 🔭 I’m currently working on improving my **Web Development** skills.
 - 🌱 I’m currently learning **DSA (Data Structures and Algorithms)** with **Java**.
 - 📫 How to reach me: [LinkedIn - Manish Kushvaha](https://www.linkedin.com/in/manishkushvaha/)
 - 😄 Pronouns: He/Him
 
+___
+
+## Projects
+
+### LTCE Computer Department Website
+A dynamic and responsive website developed for the **Computer Department** at **Lokmanya Tilak College of Engineering**. The website serves as a comprehensive platform to showcase department information, resources, and events. Developed using **HTML**, **CSS**, and **JavaScript**, the project was built collaboratively with a focus on user-friendly design and smooth navigation. The website is deployed using **Netlify** and regularly updated with the latest departmental news and events.
+
+**Tech Stack**: HTML, CSS, JavaScript  
+**Repository**: [GitHub - LTCE Computer Department Website](https://github.com/Manish-Kushvaha/LTCE_dept_web)  
+**Live Website**: [LTCE Website](https://ltcecomputerdepartment.netlify.app/)
