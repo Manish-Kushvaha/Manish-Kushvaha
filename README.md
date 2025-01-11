@@ -1,16 +1,45 @@
-## Hi there 👋
+## Hi there 👋 I am Manish Kushvaha
 
-<!--
-**Manish-Kushvaha/Manish-Kushvaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate Web Developer dedicated to crafting dynamic, interactive websites and delivering seamless user experiences.
+___
 
-Here are some ideas to get you started:
+## Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**:  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+- **Frontend Frameworks**:  
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+- **Backend**:  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+- **Databases**:  
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+- **Version Control**:  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+- **Tools**:  
+  ![Terminal](https://img.shields.io/badge/Terminal-2A2A2A?style=flat-square&logo=gnome-terminal&logoColor=white)  
+  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+  
+___
+
+## About me
+
+I am a passionate **web developer** with a focus on building **user-friendly** and **dynamic web applications**. While I am still strengthening my **backend skills**, I have a solid foundation in **frontend development**, including technologies like **HTML**, **CSS**, **JavaScript**. I am actively working to expand my expertise in **backend development**, including learning about **server-side logic**, **databases**, and **API integration**. I am committed to enhancing my skills and becoming a proficient **full-stack developer**, focusing on creating **scalable** and **efficient web solutions**.
+
+___
+
+- 🔭 I’m currently working on improving my **Web Development** skills.
+- 🌱 I’m currently learning **DSA (Data Structures and Algorithms)** with **Java**.
+- 📫 How to reach me: [LinkedIn - Manish Kushvaha](https://www.linkedin.com/in/manishkushvaha/)
+- 😄 Pronouns: He/Him
+
