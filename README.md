@@ -21,7 +21,7 @@ ___
 
 - **Databases**:  
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-  ![MySQL](https://upload.wikimedia.org/wikipedia/commons/6/63/MySQL_logo.png)
+![MySQL Logo](https://github.com/Manish-Kushvaha/your-repo-name/raw/main/path-to-image/MySQL_logo.png)
 
 - **Version Control**:  
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
