@@ -53,35 +53,35 @@ ___
 
 A responsive website developed for the **Computer Department** at **Lokmanya Tilak College of Engineering**. The website serves as a comprehensive platform to showcase department information, resources, and events. Developed using **HTML**, **CSS**, and **JavaScript**, the project was built collaboratively with a focus on user-friendly design and smooth navigation. The website is deployed using **Netlify** and regularly updated with the latest departmental news and events.
 
-**Tech Stack**: ... HTML, CSS, JavaScript  
-**Repository**: ... [GitHub - LTCE Computer Department Website](https://github.com/Manish-Kushvaha/LTCE_dept_web)
-**Live Website**: ... [LTCE Website](https://ltcecomputerdepartment.netlify.app/)
+**Tech Stack**: HTML, CSS, JavaScript  
+**Repository**: [GitHub - LTCE Computer Department Website](https://github.com/Manish-Kushvaha/LTCE_dept_web)    
+**Live Website**: [LTCE Website](https://ltcecomputerdepartment.netlify.app/)   
 
 
 ### StayEase – Rental Marketplace for Short-Term Lodging
 
 A rental booking platform inspired by Airbnb, built for short-term property rentals. The platform allows users to create, browse, and manage listings with complete **CRUD functionality**. Developed using **Express.js**, **EJS**, and **MongoDB**, the project includes secure user authentication, session handling, and a responsive, user-friendly interface focused on clean design and smooth navigation.
 
-**Tech Stack**: Express.js, MongoDB, EJS, JavaScript
-**Repository**: [GitHub – StayEase](https://github.com/Manish-Kushvaha/Wunderlust)
-**Live Website**: [StayEase](https://full-stack-project-4.onrender.com/signup)
+**Tech Stack**: Express.js, MongoDB, EJS, JavaScript   
+**Repository**: [GitHub – StayEase](https://github.com/Manish-Kushvaha/Wunderlust)    
+**Live Website**: [StayEase](https://full-stack-project-4.onrender.com/signup)    
 
 
 ### ChintanAI – AI Chatbot
 
 An intelligent chatbot application built using **React.js**, **Express.js**, and **Node.js** to enable real-time conversational interaction. Powered by the **OpenAI API**, the system generates smart and context-aware responses. The project features **user authentication, chat history**, and session management with **MongoDB**, along with well-structured RESTful APIs for seamless client–server communication.
 
-**Tech Stack**: React.js, Express.js, Node.js, MongoDB, ChatGPT API, CSS
-**Repository**: [GitHub – ChintanAI](https://github.com/Manish-Kushvaha/ChintanAI-Chatbot)
+**Tech Stack**: React.js, Express.js, Node.js, MongoDB, ChatGPT API, CSS     
+**Repository**: [GitHub – ChintanAI](https://github.com/Manish-Kushvaha/ChintanAI-Chatbot)    
 
 
 ### Apna Video Call – Zoom Clone
 
 A real-time video calling platform inspired by **Zoom**, built using **WebRTC** for peer-to-peer communication. The frontend is developed with **React.js**, featuring responsive video grids and smooth user interaction. A signaling server built with **Express.js** manages connection setup between users. MongoDB is used for storing user session data with the potential for future features like chat and call history.
 
-**Tech Stack**: React.js, WebRTC, MongoDB, Express.js
-**Repository**: [GitHub – Apna Video Call](https://github.com/Manish-Kushvaha/Apna-Video-Call-Zoom)
-**Live Project**: [Apna Video Call](https://apna-video-call-vn3o.onrender.com/)
+**Tech Stack**: React.js, WebRTC, MongoDB, Express.js     
+**Repository**: [GitHub – Apna Video Call](https://github.com/Manish-Kushvaha/Apna-Video-Call-Zoom)    
+**Live Project**: [Apna Video Call](https://apna-video-call-vn3o.onrender.com/)   
 ___
 
 ## Contact Info
