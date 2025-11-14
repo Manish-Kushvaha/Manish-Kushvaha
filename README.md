@@ -8,6 +8,8 @@ ___
 **Programming Languages:**  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
 
 **Frontend:**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -35,10 +37,11 @@ ___
 
 ## About me
 
-I am a passionate **web developer** with a focus on building **user-friendly** and **dynamic web applications**. While I am still strengthening my **backend skills**, I have a solid foundation in **frontend development**, including technologies like **HTML**, **CSS**, **JavaScript**. I am actively working to expand my expertise in **backend development**, including learning about **server-side logic**, **databases**, and **API integration**. I am committed to enhancing my skills and becoming a proficient **full-stack developer**, focusing on creating **scalable** and **efficient web solutions**.
+I am a **computer engineering student** with hands-on experience in developing **full-stack web applications** using technologies such as **React.js, Node.js, Express.js, EJS, and MongoDB**. I am comfortable working **with responsive UI designs, CRUD functionalities, and user authentication systems**.
 
-- 🔭 I’m currently working on improving my **Web Development** skills.
-- 🌱 I’m currently learning **DSA (Data Structures and Algorithms)** with **Java**.
+I have worked on both **individual** and **team-based projects**, focusing on clean design, performance, and maintainable code. I am continuously improving my skills and aiming to become a proficient **full-stack developer**, capable of **building scalable**, **efficient**, and **reliable** software solutions.
+
+- 🔭 I’m currently working on improving my skills.
 - 📫 How to reach me: [LinkedIn - Manish Kushvaha](https://www.linkedin.com/in/manishkushvaha/)
 - 😄 Pronouns: He/Him
 
@@ -47,11 +50,30 @@ ___
 ## Projects
 
 ### LTCE Computer Department Website
-A dynamic and responsive website developed for the **Computer Department** at **Lokmanya Tilak College of Engineering**. The website serves as a comprehensive platform to showcase department information, resources, and events. Developed using **HTML**, **CSS**, and **JavaScript**, the project was built collaboratively with a focus on user-friendly design and smooth navigation. The website is deployed using **Netlify** and regularly updated with the latest departmental news and events.
+
+A responsive website developed for the **Computer Department** at **Lokmanya Tilak College of Engineering**. The website serves as a comprehensive platform to showcase department information, resources, and events. Developed using **HTML**, **CSS**, and **JavaScript**, the project was built collaboratively with a focus on user-friendly design and smooth navigation. The website is deployed using **Netlify** and regularly updated with the latest departmental news and events.
 
 **Tech Stack**: HTML, CSS, JavaScript  
 **Repository**: [GitHub - LTCE Computer Department Website](https://github.com/Manish-Kushvaha/LTCE_dept_web)  
 **Live Website**: [LTCE Website](https://ltcecomputerdepartment.netlify.app/)
+
+
+### StayEase – Rental Marketplace for Short-Term Lodging
+
+A rental booking platform inspired by Airbnb, built for short-term property rentals. The platform allows users to create, browse, and manage listings with complete **CRUD functionality**. Developed using **Express.js**, **EJS**, and **MongoDB**, the project includes secure user authentication, session handling, and a responsive, user-friendly interface focused on clean design and smooth navigation.
+
+**Tech Stack**: Express.js, MongoDB, EJS, JavaScript
+**Repository**: GitHub – StayEase(https://github.com/Manish-Kushvaha/Apna-Video-Call-Zoom)
+**Live Website**: (https://full-stack-project-4.onrender.com/signup)
+
+
+### ChintanAI – AI Chatbot
+
+An intelligent chatbot application built using **React.js**, **Express.js**, and **Node.js** to enable real-time conversational interaction. Powered by the **OpenAI API**, the system generates smart and context-aware responses. The project features **user authentication, chat history**, and session management with **MongoDB**, along with well-structured RESTful APIs for seamless client–server communication.
+
+**Tech Stack**: React.js, Express.js, Node.js, MongoDB, ChatGPT API, CSS
+**Repository**: GitHub – ChintanAI-(https://github.com/Manish-Kushvaha/ChintanAI-Chatbot)
+
 ___
 
 ## Contact Info
