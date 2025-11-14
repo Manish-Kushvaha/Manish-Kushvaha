@@ -53,9 +53,9 @@ ___
 
 A responsive website developed for the **Computer Department** at **Lokmanya Tilak College of Engineering**. The website serves as a comprehensive platform to showcase department information, resources, and events. Developed using **HTML**, **CSS**, and **JavaScript**, the project was built collaboratively with a focus on user-friendly design and smooth navigation. The website is deployed using **Netlify** and regularly updated with the latest departmental news and events.
 
-**Tech Stack**: HTML, CSS, JavaScript  
-**Repository**: [GitHub - LTCE Computer Department Website](https://github.com/Manish-Kushvaha/LTCE_dept_web)
-**Live Website**: [LTCE Website](https://ltcecomputerdepartment.netlify.app/)
+**Tech Stack**: ... HTML, CSS, JavaScript  
+**Repository**: ... [GitHub - LTCE Computer Department Website](https://github.com/Manish-Kushvaha/LTCE_dept_web)
+**Live Website**: ... [LTCE Website](https://ltcecomputerdepartment.netlify.app/)
 
 
 ### StayEase – Rental Marketplace for Short-Term Lodging
