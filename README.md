@@ -68,7 +68,7 @@ A dynamic and responsive web portal developed for the **Computer Engineering Dep
 A rental booking platform inspired by Airbnb, built for short-term property rentals. The platform allows users to create, browse, and manage listings with complete **CRUD functionality**. Developed using **Express.js**, **EJS**, and **MongoDB**, the project includes secure user authentication, session handling, and a responsive, user-friendly interface focused on clean design and smooth navigation.
 
 **Tech Stack**: Express.js, MongoDB, EJS, JavaScript   
-**Repository**: [GitHub – StayEase](https://github.com/Manish-Kushvaha/Wunderlust)    
+**Repository**: [GitHub – StayEase](https://github.com/Manish-Kushvaha/StayEase)    
 **Live Website**: [StayEase](https://full-stack-project-4.onrender.com/signup)    
 
 
