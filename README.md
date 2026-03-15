@@ -63,7 +63,7 @@ A dynamic and responsive web portal developed for the **Computer Engineering Dep
 
 **Tech Stack**: React.js, Node.js, Express.js, MongoDB, JavaScript, CSS 
 **Repository**: [GitHub - LTCE Computer Department Website](https://github.com/Manish-Kushvaha/LTCE_dept_web)    
-**Live Portal**: [LTCE Website](https://ltcecomputerdepartment.netlify.app/)   
+**Live Demo**: [LTCE Website](https://ltcecomputerdepartment.netlify.app/)   
 
 
 ### StayEase – Rental Marketplace for Short-Term Lodging
@@ -72,7 +72,7 @@ A rental booking platform inspired by Airbnb, built for short-term property rent
 
 **Tech Stack**: Express.js, MongoDB, EJS, JavaScript   
 **Repository**: [GitHub – StayEase](https://github.com/Manish-Kushvaha/StayEase)    
-**Live Portal**: [StayEase](https://full-stack-project-4.onrender.com/signup)    
+**Live Demo**: [StayEase](https://full-stack-project-4.onrender.com/signup)    
 
 
 ### ChintanAI – AI Chatbot
@@ -89,7 +89,7 @@ A real-time video calling platform inspired by **Zoom**, built using **WebRTC** 
 
 **Tech Stack**: React.js, WebRTC, MongoDB, Express.js     
 **Repository**: [GitHub – Apna Video Call](https://github.com/Manish-Kushvaha/Apna-Video-Call-Zoom)    
-**Live Portal**: [Apna Video Call](https://apna-video-call-vn3o.onrender.com/)   
+**Live Demo**: [Apna Video Call](https://apna-video-call-vn3o.onrender.com/)   
 ___
 
 ## Contact Info
