@@ -61,8 +61,7 @@ ___
 
 A dynamic and responsive web portal developed for the **Computer Engineering Department** at **Lokmanya Tilak College of Engineering**. The platform provides centralized access to department information, faculty profiles, study materials, and event updates. Built using a modern full-stack approach with **React.js** for the frontend and **Node.js/Express.js** for backend API handling, the system ensures smooth navigation and real-time content management. **MongoDB** is used for persistent data storage, and the platform is deployed with continuous updates to reflect ongoing departmental activities.
 
-**Tech Stack**: React.js, Node.js, Express.js, MongoDB, JavaScript, CSS 
-**Repository**: [GitHub - LTCE Computer Department Website](https://github.com/Manish-Kushvaha/LTCE_dept_web)    
+**Tech Stack**: React.js, Node.js, Express.js, MongoDB, JavaScript, CSS
 **Live Demo**: [LTCE Website](https://ltcecomputerdepartment.netlify.app/)   
 
 
