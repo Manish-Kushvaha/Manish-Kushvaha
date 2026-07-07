@@ -46,9 +46,15 @@ ___
 
 ## About me
 
-I am a **computer engineering student** with hands-on experience in developing **full-stack web applications** using technologies such as **React.js, Node.js, Express.js, EJS, and MongoDB**. I am comfortable working **with responsive UI designs, CRUD functionalities, and user authentication systems**.
+## 👋 About Me
 
-I have worked on both **individual** and **team-based projects**, focusing on clean design, performance, and maintainable code. I am continuously improving my skills and aiming to become a proficient **full-stack developer**, capable of **building scalable**, **efficient**, and **reliable** software solutions.
+I am a **Computer Engineering graduate** passionate about building **scalable**, **efficient**, and **user-centric software solutions**.
+
+I have hands-on experience developing **full-stack web applications** using **React.js, Node.js, Express.js, MongoDB, MySQL, JavaScript, and Java**. My experience includes designing **responsive user interfaces**, developing **RESTful APIs**, implementing **authentication & session management**, and building **end-to-end applications** with clean, maintainable code.
+
+I enjoy solving real-world problems by applying **Object-Oriented Programming (OOP)**, **Data Structures & Algorithms (DSA)**, and **Software Development Life Cycle (SDLC)** principles.
+
+I'm continuously learning new technologies, building impactful projects, and expanding my knowledge of modern software engineering practices. I'm currently seeking opportunities as a **Software Engineer**, **Full-Stack Developer**, **Backend Developer**, or **Graduate Engineer Trainee**, where I can contribute, learn, and grow as an engineer.
 
 - 🔭 I’m currently working on improving my skills.
 - 📫 How to reach me: [LinkedIn - Manish Kushvaha](https://www.linkedin.com/in/manishkushvaha/)
