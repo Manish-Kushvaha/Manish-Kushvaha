@@ -13,6 +13,7 @@ ___
 **Core Concepts:**  
 ![OOP](https://img.shields.io/badge/Object--Oriented%20Programming-OOP-blue?style=flat)
 ![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-DSA-orange?style=flat)
+![SDLC](https://img.shields.io/badge/Software%20Development%20Life%20Cycle-SDLC-green?style=flat)
 
 **Frontend:**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
