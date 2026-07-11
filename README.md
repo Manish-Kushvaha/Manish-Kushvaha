@@ -98,7 +98,7 @@ A real-time video calling platform inspired by **Zoom**, built using **WebRTC** 
 **Live Demo**: [Apna Video Call](https://apna-video-call-vn3o.onrender.com/)   
 ___
 
-## Contact Info
+## 📱 Contact Info
 Feel free to reach out for collaborations or opportunities!
 - **Email**: [kushvahamanish555@gmail.com](mailto:kushvahamanish555@gmail.com)
 
