@@ -3,7 +3,7 @@
 A passionate Web Developer dedicated to crafting dynamic, interactive websites and delivering seamless user experiences.
 ___
 
-### 🛠️ Technical Skills  
+### 🧑‍💻 Technical Skills  
 
 **Programming Languages:**  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
