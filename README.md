@@ -1,6 +1,5 @@
 ## Hi there 👋 I am Manish Kushvaha
 
-A passionate Web Developer dedicated to crafting dynamic, interactive websites and delivering seamless user experiences.
 ___
 
 ### 🧑‍💻 Technical Skills  
